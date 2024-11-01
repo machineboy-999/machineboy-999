@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist from Pakistan</h3>
 
 
-- 🔭 I’m currently working on **Data Science projects**
+- 🔭 I’m currently working as **Software Engineer**
 
 - 💬 Ask me about **Python, AI, Data Science, Machine Learning**
 
