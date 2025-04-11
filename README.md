@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Husnain Manzoor</h1>
-<h3 align="center">Data Scientist from Pakistan</h3>
+<h3 align="center">AI developer from Pakistan</h3>
 
 
 - 🔭 I’m currently working as **Software Engineer**
